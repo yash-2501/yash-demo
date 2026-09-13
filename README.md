@@ -1,2 +1,4 @@
 # yash-demo
-This is my demo repository &lt;br>
+This is my demo repository 
+<br>
+author : Yash Patel
